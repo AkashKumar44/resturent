@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Event Default</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://delici.windstripedesign.ro"/>
+	<id>https://delici.windstripedesign.ro/event-default/healthy-food</id>
+	<updated>2023-03-13T06:55:18+00:00</updated>
+	<author>
+		<name>Delici</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://delici.windstripedesign.ro/event-default/healthy-food?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Flavour so good you’ll try to eat with your eyes.</title>
+		<link rel="alternate" type="text/html" href="https://delici.windstripedesign.ro/event-default/healthy-food/flavour-so-good-youll-try-to-eat-with-your-eyes"/>
+		<published>2023-02-20T22:28:42+00:00</published>
+		<updated>2023-02-20T22:28:42+00:00</updated>
+		<id>https://delici.windstripedesign.ro/event-default/healthy-food/flavour-so-good-youll-try-to-eat-with-your-eyes</id>
+		<author>
+			<name>Windstripe</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://delici.windstripedesign.ro//images/resource/news-2.jpg&quot; alt=&quot;&quot; width=&quot;350&quot; height=&quot;450&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://delici.windstripedesign.ro//images/resource/news-2.jpg&quot; alt=&quot;&quot; width=&quot;350&quot; height=&quot;450&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;</content>
+		<category term="healthy food" />
+	</entry>
+</feed>
