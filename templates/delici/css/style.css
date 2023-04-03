@@ -102,7 +102,7 @@
     .sp-dots
     ul
     li.sp-dot-0 {
-    background: url("../images/main-slider/slider-1.jpg") no-repeat scroll center
+    background: url("..../../../images/main-slider/slider-1.jpg") no-repeat scroll center
       center / cover;
   }
   #sppb-addon-1676831784043
@@ -334,7 +334,7 @@
     .sp-dots
     ul
     li.sp-dot-1 {
-    background: url("../images/main-slider/slider-2.jpg") no-repeat scroll center
+    background: url("..../../../images/main-slider/slider-2.jpg") no-repeat scroll center
       center / cover;
   }
   #sppb-addon-1676831784043
@@ -566,7 +566,7 @@
     .sp-dots
     ul
     li.sp-dot-2 {
-    background: url("../images/main-slider/slider-3.jpg") no-repeat scroll center
+    background: url("..../../../images/main-slider/slider-3.jpg") no-repeat scroll center
       center / cover;
   }
   #sppb-addon-1676831784043
@@ -1143,7 +1143,7 @@
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease;
-    background: url(/images/background/pattern-8.svg) center repeat;
+    background: url(../../../images/background/pattern-8.svg) center repeat;
   }
   #sppb-addon-1676852038625 .offer-block .sppb-img-container:after {
     position: absolute;
@@ -1316,7 +1316,7 @@
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease;
-    background: url(/images/background/pattern-8.svg) center repeat;
+    background: url(../../../images/background/pattern-8.svg) center repeat;
   }
   #sppb-addon-1676852038667 .offer-block .sppb-img-container:after {
     position: absolute;
@@ -1477,7 +1477,7 @@
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease;
-    background: url(/images/background/pattern-8.svg) center repeat;
+    background: url(../../../images/background/pattern-8.svg) center repeat;
   }
   #sppb-addon-1676852038654 .offer-block .sppb-img-container:after {
     position: absolute;
@@ -1594,7 +1594,7 @@
     padding-top: 170px;
     padding-bottom: 210px;
     background-color: var(--color-four);
-    background-image: url('../../../images/background/bg-3.png');
+    background-image: url('../../..../../../images/background/bg-3.png');
     background-repeat: no-repeat;
     background-size: inherit;
     background-attachment: scroll;
@@ -1647,7 +1647,7 @@
     margin-bottom: 15px;
     width: 100px;
     height: 13px;
-    background-image: url('https://delici.windstripedesign.ro//images/icons/separator.svg');
+    background-image: url('https://delici.windstripedesign.ro/../../../images/icons/separator.svg');
     background-repeat: no-repeat;
     background-position: 50% 50%;
   }
@@ -1823,7 +1823,7 @@
     width: 140px;
     top: 0;
     bottom: 0;
-    background: url('/images/background/pattern-8.svg') center repeat;
+    background: url('../../../images/background/pattern-8.svg') center repeat;
     display: block;
   }
   .sp-page-builder .page-content #section-id-1676856718650 {
@@ -1855,7 +1855,7 @@
   }
   #column-id-1676856718652 {
     box-shadow: 0 0 0 0 #fff;
-    background-image: url('../../../images/background/banner-image-2.jpg');
+    background-image: url('../../..../../../images/background/banner-image-2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
@@ -1953,7 +1953,7 @@
     margin-bottom: 15px;
     width: 100px;
     height: 13px;
-    background-image: url('https://delici.windstripedesign.ro//images/icons/separator.svg');
+    background-image: url('https://delici.windstripedesign.ro/../../../images/icons/separator.svg');
     background-repeat: no-repeat;
     background-position: 50% 50%;
   }
@@ -2111,7 +2111,7 @@
     margin-bottom: 15px;
     width: 100px;
     height: 13px;
-    background-image: url(https://delici.windstripedesign.ro//images/icons/separator.svg);
+    background-image: url(https://delici.windstripedesign.ro/../../../images/icons/separator.svg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
   }
@@ -2366,7 +2366,7 @@
     margin-bottom: 15px;
     width: 100px;
     height: 13px;
-    background-image: url(https://delici.windstripedesign.ro//images/icons/separator.svg);
+    background-image: url(https://delici.windstripedesign.ro/../../../images/icons/separator.svg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
   }
@@ -2548,7 +2548,7 @@
     padding-top: 120px;
     padding-bottom: 340px;
     background-color: var(--black-color);
-    background-image: url(/images/background/image-2.jpg);
+    background-image: url(../../../images/background/image-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
@@ -2946,7 +2946,7 @@
     padding-right: 20px;
     padding-bottom: 55px;
     padding-left: 20px;
-    background-image: url(/images/background/pattern-2.png);
+    background-image: url(../../../images/background/pattern-2.png);
     background-repeat: repeat;
     background-size: inherit;
     background-attachment: scroll;
@@ -3163,7 +3163,7 @@
     margin-bottom: 15px;
     width: 100px;
     height: 13px;
-    background-image: url(https://delici.windstripedesign.ro//images/icons/separator.svg);
+    background-image: url(https://delici.windstripedesign.ro/../../../images/icons/separator.svg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
   }
@@ -3673,7 +3673,7 @@
   }
   .sp-page-builder .page-content #section-id-1676913399000 {
     height: 380px;
-    background-image: url(/images/resource/featured-1.jpg);
+    background-image: url(../../../images/resource/featured-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
@@ -3689,7 +3689,7 @@
   #column-id-1676913398965 {
     padding-bottom: 30px;
     box-shadow: 0 0 0 0 #fff;
-    background-image: url(/images/resource/featured-2.jpg);
+    background-image: url(../../../images/resource/featured-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
@@ -3886,7 +3886,7 @@
   }
   .sp-page-builder .page-content #section-id-1676913399021 {
     height: 380px;
-    background-image: url(/images/resource/featured-3.jpg);
+    background-image: url(../../../images/resource/featured-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
@@ -3953,7 +3953,7 @@
     margin-bottom: 15px;
     width: 100px;
     height: 13px;
-    background-image: url(https://delici.windstripedesign.ro//images/icons/separator.svg);
+    background-image: url(https://delici.windstripedesign.ro/../../../images/icons/separator.svg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
   }
@@ -4335,7 +4335,7 @@
   .sp-page-builder .page-content #section-id-1676936156943 {
     padding-top: 100px;
     padding-bottom: 25px;
-    background-image: url(/images/background/image-3.jpg);
+    background-image: url(../../../images/background/image-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -4374,7 +4374,7 @@
     margin-bottom: 15px;
     width: 100px;
     height: 13px;
-    background-image: url(https://delici.windstripedesign.ro//images/icons/separator.svg);
+    background-image: url(https://delici.windstripedesign.ro/../../../images/icons/separator.svg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
   }
@@ -4537,7 +4537,7 @@
     margin-right: 0;
     margin-bottom: 0;
     margin-left: 0;
-    background-image: url(/images/background/pattern-10.svg);
+    background-image: url(../../../images/background/pattern-10.svg);
     background-repeat: repeat-x;
     background-size: inherit;
     background-attachment: scroll;
@@ -4714,7 +4714,7 @@
     margin-bottom: 15px;
     width: 100px;
     height: 13px;
-    background-image: url(https://delici.windstripedesign.ro//images/icons/separator.svg);
+    background-image: url(https://delici.windstripedesign.ro/../../../images/icons/separator.svg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
   }
