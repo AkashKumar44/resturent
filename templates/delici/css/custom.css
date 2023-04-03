@@ -7,6 +7,7 @@
 
 body {
     /* font-family: var(--font-family-DMsans); */
+    font-family:var(--font-family-Forum);
     font-size:var(--font-16);
     color:var(--text-color);
     background: var(--body-bg-color);
@@ -1868,9 +1869,9 @@ padding-left: 15px;}}
   --body-bg-color:rgb(23,24,25);
   
   /* Fonts Variable */
-  --font-family-DMsans: 'DM Sans', sans-serif;
+  /* --font-family-DMsans: 'DM Sans', sans-serif; */
   
-  --font-family-Forum: 'Forum', cursive;
+  /* --font-family-Forum: 'Forum', cursive; */
   
 /* Heading Fonts */
   
